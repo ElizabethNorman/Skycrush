@@ -46,7 +46,7 @@ Promise<NodeOAuthClient> {
             buildAtprotoLoopbackClientMetadata({
                 scope: SCOPE,
                 redirect_uris: [
-                    "http://127.0.0.1:3000/oauth/callback"
+                    "https://skycrush.lizard.beer/oauth/callback"
                 ]
             }),
 
