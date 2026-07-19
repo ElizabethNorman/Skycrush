@@ -9,7 +9,7 @@ import {
 
 const PUBLIC_URL =
     process.env.PUBLIC_URL ??
-    "http://127.0.0.1:3000";
+    "https://skycrush.lizard.beer";
 
 const DID_COOKIE_NAME = "did";
 
