@@ -99,7 +99,7 @@ export default function AboutModal({
                     </div>
 
                     <p className="font-mono text-xs text-neutral-500">
-                        Built with React and the AT Protocol. <u><b><a href="lizard.beer" target="_blank">Made by Lizard.</a></b></u>
+                        Built with React and the AT Protocol. <u><b><a href="https://lizard.beer" target="_blank">Made by Lizard.</a></b></u>
                     </p>
                 </div>
             </section>
